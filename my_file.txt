@@ -1,0 +1,6 @@
+Hello, am Clement juma, Full-Stack Developer
+2024
+Am also a freelancer
+Fourth line
+Fifth line with a number: 456
+Sixth line
